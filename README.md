@@ -1,3 +1,8 @@
+In side the src folder there are the App.tsx file and mod9Lab3 folder which are arranged to run the fumction of the application. In side the mode9Lab3 folder there are three files that contains all the codes that demonestrate the requirement of the lab 9.3.
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
